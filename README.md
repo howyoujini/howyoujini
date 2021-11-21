@@ -4,8 +4,8 @@
 -------
 Skills
 -------
-![howyoujini's GitHub stats](https://github-readme-stats.vercel.app/api?username=howyoujini&show_icons=true&theme=aura)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howyoujini&layout=compact&theme=aura&langs_count=10)](https://github.com/howyoujini/github-readme-stats)
+![howyoujini's GitHub stats](https://github-readme-stats.vercel.app/api?username=howyoujini&show_icons=true&theme=ayu-mirage)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howyoujini&layout=compact&theme=ayu-mirage&langs_count=10)](https://github.com/howyoujini/github-readme-stats)
 
 <!--
 **howyoujini/howyoujini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
