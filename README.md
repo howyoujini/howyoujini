@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning React.js & Vanilla Javascript
 - ⚡ Fun fact: I majored in `Visual Communication Design` & `Digital Art`
 - 📫 How to reach me: howyoujini@gmail.com
-- 💌 Instagram: <a href="https://www.instagram.com/youjin_ii/">@youjin_ii </a>
+- 💌 Instagram: <a href="https://www.instagram.com/howyoujini/">@howyoujini </a>
 
 
 Skills
