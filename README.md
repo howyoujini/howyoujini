@@ -1,11 +1,11 @@
 ### Hello, my world :)
-#### I'm `Creative developer` !
+#### I'm `creative developer` !
 #### I love, all inputs and outputs.
 
 
-- 🌱 I’m currently learning React.js & Vanilla Javascript
+- 🌱 I’m currently learning React.js & Vanilla Javascript & Three.js.
 - ⚡ Fun fact: I majored in `Visual Communication Design` & `Digital Art`
-- 📫 How to reach me: howyoujini@gmail.com
+- 📫 How to contect: howyoujini@gmail.com
 - 💌 Instagram: <a href="https://www.instagram.com/howyoujini/">@howyoujini </a>
 
 
