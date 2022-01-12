@@ -1,16 +1,7 @@
 ### Hello, my world :)
-#### I'm ` Front-end developer `  and ` Creative coder ` !
+#### I'm `Creative developer` !
 #### I love, all inputs and outputs.
 
-
-<!--
-**howyoujini/howyoujini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
-<!-- - 🔭 I’m currently working on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
--  👯 I’m looking to collaborate on ... -->
 
 - 🌱 I’m currently learning React.js & Vanilla Javascript
 - ⚡ Fun fact: I majored in `Visual Communication Design` & `Digital Art`
