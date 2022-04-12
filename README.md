@@ -1,5 +1,5 @@
 ### Hello, my world :)
-#### I'm `creative developer` !
+#### A software engineer who thinks about the user experience with witty insight.
 #### I love, all inputs and outputs.
 
 
