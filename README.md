@@ -2,4 +2,4 @@
 
 #### I love, all inputs and outputs.
 
-- ⚡ Fun fact: I majored in `Visual Communication Design` & `Digital Art`
+I majored in `Visual Communication Design` & `Digital Art`
