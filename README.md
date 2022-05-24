@@ -1,7 +1,7 @@
 ### Hello, my world :)
 
 #### I love, all inputs and outputs. 
-ʕ”̮ॽु 
+ଘ_  , ʕ”̮ॽु┄┄゛
 
 
 I majored in `Visual Communication Design` & `Digital Art`.
