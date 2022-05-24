@@ -1,6 +1,7 @@
 ### Hello, my world :)
 
-#### I love, all inputs and outputs. ଘ_(")(⍢）┄┄♡゛
+#### I love, all inputs and outputs. 
+ʕ”̮ॽु 
 ---
 
 I majored in `Visual Communication Design` & `Digital Art`.
