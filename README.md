@@ -5,6 +5,7 @@
 
 
 I majored in `Visual Communication Design` & `Digital Art`.
+
 I am working now ..
 
 From 2022, I am studying `Dart`, `Flutter`, `Java`, `JavaScript` and `oop`.
