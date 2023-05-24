@@ -6,4 +6,4 @@
 
 I majored in `Visual Communication Design` & `Digital Art`.
 
-From 2022, I am studying `Dart`, `Flutter`, `JavaScript`, `Three.js` and `oop`.
+From 2022, I am studying `Dart`, `Flutter`, `JavaScript`, `Three.js`.
