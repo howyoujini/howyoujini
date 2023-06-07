@@ -1,11 +1,10 @@
-### UX Engineer:)
+### UX Engineer
 
-#### I love, all inputs and outputs. 
-### 🦕 
-
+I love, all inputs and outputs. 
 
 I majored in `Visual Communication Design` & `Digital Art`. <br>
-
+I'm working as a `UX engineer`. <br>
+🦕
 
 ### Skills
 ![Flutter](https://img.shields.io/badge/Flutter-white?style=flat-square&logo=Flutter&logoColor=4dc9ff) ![Dart](https://img.shields.io/badge/Dart-white?&style=flat-square&logo=Dart&logoColor=2272d4)<br>
