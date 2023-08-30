@@ -3,7 +3,6 @@
 I love, all inputs and outputs. 
 
 I majored in `Visual Communication Design` & `Digital Art`. <br>
-I'm working as a `UX engineer`. <br>
 
 🦕
 
