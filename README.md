@@ -2,7 +2,7 @@
 
 I love, all inputs and outputs. 
 
-I majored in `Visual Communication Design` & `Digital Art`. <br>
+I have majored in `Visual Communication Design` and also minored in `Digital Art`. <br>
 
 🦕
 
