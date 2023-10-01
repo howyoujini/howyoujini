@@ -4,7 +4,7 @@ I love, all inputs and outputs.
 
 I have majored in `Visual Communication Design` and also minored in `Digital Art`. <br>
 
-🦕
+🦕 
 
 ### Skills
 ![Flutter](https://img.shields.io/badge/Flutter-white?style=flat-square&logo=Flutter&logoColor=4dc9ff) ![Dart](https://img.shields.io/badge/Dart-white?&style=flat-square&logo=Dart&logoColor=2272d4)<br>
