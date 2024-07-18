@@ -5,7 +5,7 @@ love every inputs and outputs 🦁 <br>
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/howyoujini?pet-id=601602385357785016"
-    width="600"
+    width="900"
     height="120"
   />
 </a>
