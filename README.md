@@ -1,9 +1,15 @@
 ### Frontend Engineer
 
-love every inputs and outputs 🦕 <br><br>
+love every inputs and outputs 🦁 <br>
 
-
-
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/howyoujini?pet-id=601602385357785016"
+    width="600"
+    height="120"
+  />
+</a>
+  
 ### Skills
 ![Flutter](https://img.shields.io/badge/Flutter-white?style=flat-square&logo=Flutter&logoColor=4dc9ff) ![Dart](https://img.shields.io/badge/Dart-white?&style=flat-square&logo=Dart&logoColor=2272d4)<br>
 ![Javascript](https://img.shields.io/badge/Javascript-white?style=flat-square&logo=Javascript&logoColor=ffd53b) ![Typescript](https://img.shields.io/badge/Typescript-white?style=flat-square&logo=Typescript&logoColor=blue) ![Three.js](https://img.shields.io/badge/Three.js-white?&style=flat-square&logo=Three.js&logoColor=black)<br>
