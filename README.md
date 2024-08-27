@@ -3,7 +3,7 @@
 love every inputs and outputs <br>
   
 ### Skills
-![Javascript](https://img.shields.io/badge/Javascript-white?style=flat-square&logo=Javascript&logoColor=ffd53b) ![Typescript](https://img.shields.io/badge/Typescript-white?style=flat-square&logo=Typescript&logoColor=blue) ![Three.js](https://img.shields.io/badge/Three.js-white?&style=flat-square&logo=Three.js&logoColor=black)<br>
+![Javascript](https://img.shields.io/badge/Javascript-white?style=flat-square&logo=Javascript&logoColor=ffd53b) ![Typescript](https://img.shields.io/badge/Typescript-white?style=flat-square&logo=Typescript&logoColor=blue) ![Three.js](https://img.shields.io/badge/Three.js-white?&style=flat-square&logo=Three.js&logoColor=black) ![React](https://img.shields.io/badge/React-white?style=flat-square&logo=React&logoColor=skyblue)<br>
 ![Flutter](https://img.shields.io/badge/Flutter-white?style=flat-square&logo=Flutter&logoColor=4dc9ff) ![Dart](https://img.shields.io/badge/Dart-white?&style=flat-square&logo=Dart&logoColor=2272d4)<br>
 
 ![Git](https://img.shields.io/badge/Git-white?&style=flat-square&logo=Git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-white?&style=flat-square&logo=GitHub&logoColor=black)<br>
