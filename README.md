@@ -1,6 +1,14 @@
 ### Frontend Engineer
 
 love every inputs and outputs <br>
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/howyoujini?pet-id=637245271484234108"
+    width="600"
+    height="120"
+  />
+</a>
+  
   
 ### Skills
 ![Javascript](https://img.shields.io/badge/Javascript-white?style=flat-square&logo=Javascript&logoColor=ffd53b) ![Typescript](https://img.shields.io/badge/Typescript-white?style=flat-square&logo=Typescript&logoColor=blue) ![Three.js](https://img.shields.io/badge/Three.js-white?&style=flat-square&logo=Three.js&logoColor=black) ![React](https://img.shields.io/badge/React-white?style=flat-square&logo=React&logoColor=skyblue)<br>
