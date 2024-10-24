@@ -1,13 +1,15 @@
 ### Frontend Engineer
 
 love every inputs and outputs <br>
+
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/howyoujini?pet-id=637245271484234108"
-    width="600"
-    height="120"
+    width="900"
+    height="150"
   />
 </a>
+  
   
   
 ### Skills
