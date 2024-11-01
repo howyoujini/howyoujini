@@ -2,7 +2,7 @@
 
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/howyoujini"
+    src="https://render.gitanimals.org/lines/howyoujini?pet-id=639048273261897345"
     width="600"
     height="120"
   />
