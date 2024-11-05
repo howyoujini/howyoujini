@@ -8,8 +8,10 @@
     height="120"
   />
 </a>
-  
-  
+
+<a href="https://github.com/git-marvel/commit-guardians-client">
+  <img src="https://firebasestorage.googleapis.com/v0/b/commit-guardians.firebasestorage.app/o/badges%2Fcommit-rulemaster-style-01.svg?alt=media&token=d930abbb-d571-484d-ac75-14a2c006cf3a" />
+</a>
 
 <!--
 **howyoujini/howyoujini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
