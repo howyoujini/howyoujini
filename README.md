@@ -11,7 +11,7 @@ love every inputs and outputs <br>
 </a>
 
 <a href="https://github.com/git-marvel/commit-guardians-client">
-  <img src="https://firebasestorage.googleapis.com/v0/b/commit-guardians.firebasestorage.app/o/badges%2Fcommit-hardworker-style-02.svg?alt=media&token=cd463e82-bfde-448e-bfbf-5b52e178de91" />
+  <img src="https://firebasestorage.googleapis.com/v0/b/commit-guardians.firebasestorage.app/o/badges%2Fcommit-rulemaster-style-01.svg?alt=media" />
 </a>
   
   
