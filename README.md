@@ -1,5 +1,6 @@
-## Hi there 👋
+### Frontend Engineer
 
+love every inputs and outputs <br>
 
 <a href="https://github.com/devxb/gitanimals">
   <img
@@ -12,18 +13,13 @@
 <a href="https://github.com/git-marvel/commit-guardians-client">
   <img src="https://firebasestorage.googleapis.com/v0/b/commit-guardians.firebasestorage.app/o/badges%2Fcommit-hardworker-style-02.svg?alt=media&token=cd463e82-bfde-448e-bfbf-5b52e178de91" />
 </a>
+  
+  
+### Skills
+![Javascript](https://img.shields.io/badge/Javascript-white?style=flat-square&logo=Javascript&logoColor=ffd53b) ![Typescript](https://img.shields.io/badge/Typescript-white?style=flat-square&logo=Typescript&logoColor=blue) ![Three.js](https://img.shields.io/badge/Three.js-white?&style=flat-square&logo=Three.js&logoColor=black) ![React](https://img.shields.io/badge/React-white?style=flat-square&logo=React&logoColor=skyblue) ![Next](https://img.shields.io/badge/Next-white?style=flat-square&logo=Next.js&logoColor=black)<br>
+![Dart](https://img.shields.io/badge/Dart-white?&style=flat-square&logo=Dart&logoColor=2272d4) ![Flutter](https://img.shields.io/badge/Flutter-white?style=flat-square&logo=Flutter&logoColor=4dc9ff)<br>
 
-<!--
-**howyoujini/howyoujini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Git](https://img.shields.io/badge/Git-white?&style=flat-square&logo=Git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-white?&style=flat-square&logo=GitHub&logoColor=black)<br>
+![Slack](https://img.shields.io/badge/Slack-white?style=flat-square&logo=Slack&logoColor=e01e5a) ![Jira](https://img.shields.io/badge/Jira-white?style=flat-square&logo=Jira&logoColor=0052CC) ![Obsidian](https://img.shields.io/badge/Obsidian-white?style=flat-square&logo=Obsidian&logoColor=7e1dfb)<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howyoujini&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
