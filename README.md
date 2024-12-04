@@ -1,12 +1,9 @@
-### Frontend Engineer
-
-love every inputs and outputs <br>
-
+### Frontend Engineer ✂️
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/howyoujini?pet-id=637245292032127240"
-    width="600"
-    height="120"
+    width="500"
+    height="100"
   />
 </a>
 
