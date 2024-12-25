@@ -3,6 +3,10 @@
 
 Welcome!!
 
+<a href="https://github.com/git-marvel/commit-guardians-client">
+  <img src="https://firebasestorage.googleapis.com/v0/b/commit-guardians.firebasestorage.app/o/badges%2Fcommit-rulemaster-style-01.svg?alt=media" />
+</a>
+
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/howyoujini?pet-id=653904983411018047"
@@ -10,11 +14,6 @@ Welcome!!
     height="120"
   />
 </a>
-
-<a href="https://github.com/git-marvel/commit-guardians-client">
-  <img src="https://firebasestorage.googleapis.com/v0/b/commit-guardians.firebasestorage.app/o/badges%2Fcommit-rulemaster-style-01.svg?alt=media" />
-</a>
-  
   
 ### Skills
 ![Javascript](https://img.shields.io/badge/Javascript-white?style=flat-square&logo=Javascript&logoColor=ffd53b) ![Typescript](https://img.shields.io/badge/Typescript-white?style=flat-square&logo=Typescript&logoColor=blue) ![Three.js](https://img.shields.io/badge/Three.js-white?&style=flat-square&logo=Three.js&logoColor=black) ![React](https://img.shields.io/badge/React-white?style=flat-square&logo=React&logoColor=skyblue) ![Next](https://img.shields.io/badge/Next-white?style=flat-square&logo=Next.js&logoColor=black)<br>
