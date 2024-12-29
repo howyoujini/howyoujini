@@ -1,11 +1,4 @@
-### Frontend Engineer 🎄☃️
-
-
-Welcome!!
-
-<a href="https://github.com/git-marvel/commit-guardians-client">
-  <img src="https://firebasestorage.googleapis.com/v0/b/commit-guardians.firebasestorage.app/o/badges%2Fcommit-rulemaster-style-01.svg?alt=media" />
-</a>
+### Frontend Engineer
 
 <a href="https://github.com/devxb/gitanimals">
   <img
