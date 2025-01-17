@@ -15,9 +15,9 @@
 23.12.01 ~ now: [글또](https://geultto.github.io/)(글쓰는 또라이가 세상을 바꾼다) 9기, 10기    
 24.06.24 ~ 24.06.26: 서울시립대 모듈과 타이포그래피 워크샵 p5.js 보조강사    
 
-<a href="https://github.com/devxb/gitanimals">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=howyoujini&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/howyoujini?pet-id=653904983411018047"
+    src="https://render.gitanimals.org/lines/howyoujini?pet-id=639048225643959462"
     width="600"
     height="120"
   />
