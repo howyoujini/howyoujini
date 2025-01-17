@@ -12,7 +12,7 @@
 
 
 ### Activities
-2024년 10월:  글또(글쓰는 또라이가 세상을 바꾼다) 9기, 10기    
+2024년 10월:  [글또](https://geultto.github.io/)(글쓰는 또라이가 세상을 바꾼다) 9기, 10기    
 2024년 6월:  모듈과 타이포그래피 워크샵 p5.js 보조강사    
 
 <a href="https://github.com/devxb/gitanimals">
