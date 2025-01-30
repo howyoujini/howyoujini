@@ -1,5 +1,5 @@
 ### Introduction
-I'm Youjin Hong, a Frontend Developer in South Korea 🇰🇷.
+I'm Youjin Hong, a Frontend Engineer in South Korea 🇰🇷.
 
 With a background in Visual Communication Design and a minor in Digital Art, I developed a passion for **crafting interfaces through code**, which led me to a career in frontend development. I specialize in optimizing browser performance and refining UX to make complex interfaces load faster, ensuring users enjoy a seamless and responsive experience. My focus is on balancing **business priorities**, **technical excellence**, and **user experience** to build impactful and meaningful products.
 
@@ -14,7 +14,7 @@ With a background in Visual Communication Design and a minor in Digital Art, I d
 ---
 
 ### Introduction
-프론트엔드 개발자 홍유진입니다.
+프론트엔드 엔지니어 홍유진입니다.
 
 시각디자인 전공과 디지털 아트를 부전공하고 **코드로 화면을 그리는 것**에 매료되어 프론트엔드 개발자가 되었습니다.  
 브라우저 성능 최적화와 UX 개선을 통해 복잡한 화면의 로딩 속도를 개선하며, 사용자에게 직관적이고 빠른 경험을 제공합니다.   
