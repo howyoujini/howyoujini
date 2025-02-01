@@ -6,6 +6,7 @@ With a background in Visual Communication Design and a minor in Digital Art, I d
 ### Information
 [Medium](https://medium.com/@howyoujini): Tech & Life Blog  
 [LinkedIn](https://www.linkedin.com/in/howyoujini): Career SNS  
+[Gitbook](https://howyoujini.gitbook.io/study-handbook): Study Log  
 
 ### Activities
 23.12.01 - now: [Geultto](https://geultto.github.io/) (Writing Enthusiasts Who Change the World) 9th & 10th Cohort  
