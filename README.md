@@ -1,5 +1,5 @@
 ### Introduction
-I'm Youjin Hong, a Frontend Engineer in South Korea 🇰🇷.
+I'm Youjin(**Lucy**) Hong, a Frontend Engineer in South Korea 🇰🇷.
 
 With a background in Visual Communication Design and a minor in Digital Art, I developed a passion for **crafting interfaces through code**, which led me to a career in frontend development. I specialize in optimizing browser performance and refining UX to make complex interfaces load faster, ensuring users enjoy a seamless and responsive experience. My focus is on balancing **business priorities**, **technical excellence**, and **user experience** to build impactful and meaningful products.
 
