@@ -4,7 +4,7 @@ I'm Lucy(Youjin) Hong, a Frontend Engineer in South Korea 🇰🇷.
 With a background in Visual Communication Design and a minor in Digital Art, I developed a passion for **crafting interfaces through code**, which led me to a career in frontend development. I specialize in optimizing browser performance and refining UX to make complex interfaces load faster, ensuring users enjoy a seamless and responsive experience. My focus is on balancing **business priorities**, **technical excellence**, and **user experience** to build impactful and meaningful products.
 
 ### Links
-[Resume](https://3611776612-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FsTiBw38yXEx2sYsb39OB%2Fuploads%2F55ygRiLCpKV4dqgvtzD4%2F%E1%84%92%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%B2%E1%84%8C%E1%85%B5%E1%86%AB_resume_KR.pdf?alt=media&token=853a45ed-0d50-423f-b998-851a5be95363)
+[Resume](https://3611776612-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FsTiBw38yXEx2sYsb39OB%2Fuploads%2FBIl50djoJ9Aex2LWKV28%2F%E1%84%92%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%B2%E1%84%8C%E1%85%B5%E1%86%AB_resume_KR.pdf?alt=media&token=027b0107-a04d-4d31-bb7d-47ab94451f5d)
 : Software Engineer (Frontend)  
 [Medium](https://medium.com/@howyoujini): Tech & Life Blog  
 [LinkedIn](https://www.linkedin.com/in/howyoujini): Career SNS  
