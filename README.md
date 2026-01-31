@@ -8,7 +8,7 @@ With a background in Visual Communication Design and a minor in Digital Art, I d
 [LinkedIn](https://www.linkedin.com/in/howyoujini): Career SNS  
 
 ### Activities
-26.01.01 - now | Editorium Community (people who develop editors) Operator  
+26.01.01 - now | Editorium Community Operator (for people who develop editors)  
 23.12.01 - 25.03.01 | [Geultto](https://geultto.github.io/) (Technical Writing Enthusiasts who change the world) 9th & 10th Cohort  
 24.06.24 - 24.06.26 | Assistant Instructor for p5.js at the Modular & Typography Workshop, The University of Seoul  
 
