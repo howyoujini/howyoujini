@@ -6,10 +6,10 @@ With a background in Visual Communication Design and a minor in Digital Art, I d
 ### Links
 [Medium](https://medium.com/@howyoujini): Tech & Life Blog  
 [LinkedIn](https://www.linkedin.com/in/howyoujini): Career SNS  
-[Gitbook](https://howyoujini.gitbook.io/study-handbook): Study Log  
 
 ### Activities
-23.12.01 - now | [Geultto](https://geultto.github.io/) (Technical Writing Enthusiasts who change the world) 9th & 10th Cohort  
+26.01.01 - now | Editorium Community (people who develop editors) Operator
+23.12.01 - 25.03.01 | [Geultto](https://geultto.github.io/) (Technical Writing Enthusiasts who change the world) 9th & 10th Cohort  
 24.06.24 - 24.06.26 | Assistant Instructor for p5.js at the Modular & Typography Workshop, The University of Seoul  
 
 ### Used
