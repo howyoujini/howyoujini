@@ -1,4 +1,3 @@
-### Introduction
 I'm Lucy (Youjin) Hong, a Software Engineer based in South Korea 🇰🇷.
 
 With a background in Visual Communication Design, I found my path in **building interfaces through code**, working at the intersection of design and systems. 
